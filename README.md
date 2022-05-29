@@ -1,2 +1,2 @@
 # Functions
-Some problem solutions from my training in Softuni
+Problems for exercise and homework from my training in Softuni
